@@ -27,7 +27,7 @@ SRC_URI = " \
 "
 
 SRCREV = "d79588e6c1d2ff2053206a650adc1d30af591908"
-PV = "v1.11.2+git${SRCPV}"
+PV = "v1.11.2+git"
 GO_IMPORT = "import"
 
 S = "${WORKDIR}/git"
